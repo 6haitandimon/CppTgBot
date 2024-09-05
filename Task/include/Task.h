@@ -1,0 +1,1 @@
+#pragma once#include <string>namespace Task{    class Task{    private:        int taskID;        std::string task;    };}

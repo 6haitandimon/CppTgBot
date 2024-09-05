@@ -1,0 +1,1 @@
+#include "StateMachine.h"void StateMachine::StateMachine::SetState(State state) {    this->_state = state;}StateMachine::State StateMachine::StateMachine::GetState() {    return this->_state;}StateMachine::StateMachine::StateMachine() {    _state = StartState::START;}StateMachine::StateMachine::StateMachine(State state) {    _state = state;}

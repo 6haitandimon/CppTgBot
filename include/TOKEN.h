@@ -1,0 +1,1 @@
+#ifndef ROBBOTGBOT_TOKEN_H#define ROBBOTGBOT_TOKEN_Hnamespace TOKEN {    const char *token = "6807930486:AAEeuyl1OhrCsT_kgBYOyrW_SrUXtF-SLVY";};#endif
